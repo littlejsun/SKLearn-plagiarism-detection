@@ -1,1 +1,1 @@
-# SKLearn-plagiarism-detection1
+# SKLearn-plagiarism-detection
